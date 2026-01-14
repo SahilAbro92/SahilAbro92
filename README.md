@@ -51,7 +51,7 @@ https://github.com/SahilAbro92/BMI-Calculator
 ## 📫 Contact Me
 
 - GitHub: https://github.com/SahilAbro92  
-- Email: *(add if you want)*  
+- Email: sahilabro406@gmail.com
 - LinkedIn: *(add if you want)*  
 
 ---
