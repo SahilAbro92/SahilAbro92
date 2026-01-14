@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Sahil Abro
 
-<!--
-**SahilAbro92/SahilAbro92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m a passionate learner and developer interested in programming, problem-solving, and building useful projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Student & aspiring software developer  
+- 💻 Interested in programming and technology  
+- 🌱 Currently learning Python, Java, and Web Development  
+- 🤝 Open to collaboration and learning from others  
+
+---
+
+## 📂 My Projects
+
+### 🧮 Calculator
+A simple calculator project for basic arithmetic operations.
+
+🔗 Repository:  
+https://github.com/SahilAbro92/calculator
+
+---
+
+### 🩺 BMI Calculator
+A Body Mass Index (BMI) calculator that determines health category based on height and weight.
+
+🔗 Repository:  
+https://github.com/SahilAbro92/BMI-Calculator
+
+---
+
+## 🛠️ Skills
+
+- Python 🐍  
+- Java ☕  
+- HTML & CSS 🌐  
+- Basic JavaScript  
+- Git & GitHub  
+
+---
+
+## 📊 GitHub Stats
+
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilAbro92&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+- GitHub: https://github.com/SahilAbro92  
+- Email: *(add if you want)*  
+- LinkedIn: *(add if you want)*  
+
+---
+
+⭐ Thank you for visiting my profile!  
+Happy Coding 😊
